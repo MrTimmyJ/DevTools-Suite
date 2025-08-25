@@ -5,6 +5,10 @@ The suite provides utilities for code formatting, duplicate removal, algorithm v
 Author: Timothy Johnson <br>
 Date: April 2025
 
+### 🔗 Live Demo
+
+[DevTools Suite](https://devtoolsuite.netlify.app/)
+
 ## Overview
 
 The Dev Tools Suite bundles multiple independent web tools into one clean and accessible interface.<br>
