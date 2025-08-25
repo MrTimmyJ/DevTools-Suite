@@ -42,11 +42,12 @@ The suite helps developers save time, visualize algorithms, and experiment with 
 📁 Code Structure
 
 .<br>
-Photography-Portfolio/<br>
+DevTools-Suite/<br>
 ├── index.html &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Main entry page<br>
-├── css/<br>
-│ └── main.css &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Custom styles<br>
-└── images/ &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Photo assets<br>
+├── tools.html &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Tool page<br>
+├── styles/<br>
+│ └── styles.css &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; Custom styles<br>
+└── about.html &nbsp;&nbsp;&nbsp;---&nbsp;&nbsp;&nbsp; About page<br>
 
 🖼️ Screenshots / Visuals
 
